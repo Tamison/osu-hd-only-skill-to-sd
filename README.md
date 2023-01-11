@@ -1,5 +1,5 @@
 # osu-hd-only-skill-to-sd
-An python script to resample a HD only skin on osu to SD resolution
+A python script to resample a HD only skin on osu to SD resolution
 
 #### Requirements for build
 - [Python 3.8+](https://www.python.org/downloads/)
