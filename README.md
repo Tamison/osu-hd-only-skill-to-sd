@@ -7,7 +7,7 @@ An python script to resample a HD only skin on osu to SD resolution
 - [Customtkinter](https://github.com/TomSchimansky/CustomTkinter)
 
 #### Usage
--Run the executable
--Set you osu/skin directory
--Select the skin on the drop down menu
--Press Start
+- Run the executable
+- Set you osu/skin directory
+- Select the skin on the drop down menu
+- Press Start
