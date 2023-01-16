@@ -15,6 +15,5 @@ A python script to resample a HD only skin on osu to SD resolution
 
 ##### Notes
 
-- If you close the program without setting a directory for the skin an error windows will pop up, you can just close it and run the program again to set a directory for the skins folder.
+- If you close the program without setting a directory for the skin you can just, run the program again to set a directory for the skins folder.
 - If you set the directory to the wrong location, just delete the skin.path file and run the program again.
-- If you load a new skin into the game, just hit the reload skin button to load it in to the program list.
