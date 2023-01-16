@@ -5,6 +5,11 @@ A python script to resample a HD only skin on osu to SD resolution
 - [Python 3.8+](https://www.python.org/downloads/)
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
 - [Customtkinter](https://github.com/TomSchimansky/CustomTkinter)
+
+
+#### Required for running the ---SD---.py
+- [Python 3.8+](https://www.python.org/downloads/)
+- [Pillow](https://pillow.readthedocs.io/en/stable/)
 - [PBar](https://github.com/niltonvolpato/python-progressbar)
 
 #### Usage
